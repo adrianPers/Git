@@ -4,7 +4,6 @@
 </p>
 
 # Estudos de Git
----
 
 Este repositório foi criado para armazenar todos os arquivos, 
 exemplos e exercícios utilizados ao longo dos meus estudos de Git.
