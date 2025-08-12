@@ -41,7 +41,7 @@ não é diferente.
 Este repositório serve como apoio ao aprendizado e pode ser utilizado como referência pessoal ou de estudo colaborativo.
 
 ---
-by : Adrian Pereira - [LinkedIn](https://git-scm.com/downloads) - [GitHub](https://github.com/adrianPers)
+by : Adrian Pereira - [LinkedIn]([https://git-scm.com/downloads](https://www.linkedin.com/in/dev-adrian-pereira/)) - [GitHub](https://github.com/adrianPers)
 
 
 
